@@ -1,0 +1,30 @@
+// sheep and pen
+sheep: (0,1)
+block: (0,0)
+block: (1,0)
+block: (0,2)
+block: (1,2)
+block: (2,0)
+block: (3,0)
+block: (3,1)
+block: (3,2)
+
+// wolf in center-ish
+wolf: (18,18)
+block: (7,7)
+block: (7,8)
+block: (7,9)
+block: (7,10)
+
+// shepherd at home
+shepherd: (1,18)
+block: (0,17)
+block: (0,18)
+block: (0,19)
+block: (1,19)
+block: (2,17)
+block: (2,18)
+block: (2:19)
+
+// player
+player:  (0,3)
